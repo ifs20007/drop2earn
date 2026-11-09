@@ -1,0 +1,26 @@
+# Agent & AI Configurations
+.agents/
+.agemts/
+.claude/
+.claut/
+AGENTS.md
+CLAUDE.md
+skills-lock.json
+
+# Test Suite & Development Scripts
+tests/
+
+# Environment & Sensitive Files
+.env
+.env.local
+*.log
+error_log
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.swp
+
